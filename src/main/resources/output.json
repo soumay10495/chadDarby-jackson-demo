@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "firstName": "Jaata",
+  "lastName": "Paata",
+  "active": false,
+  "address": {
+    "street": "23",
+    "city": "Badlapur",
+    "country": "Delhi"
+  },
+  "languages": [
+    "English",
+    "Hindi",
+    "French"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2000,
+  "firstName": "Jake",
+  "lastName": "Bake",
+  "active": true,
+  "age": 15,
+  "address": {
+    "street": "2000",
+    "city": "Jama",
+    "country": "Delhi"
+  },
+  "languages": [
+    "Hindi",
+    "French"
+  ]
+}
